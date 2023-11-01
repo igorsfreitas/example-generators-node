@@ -1,0 +1,7 @@
+{
+  "name": "node-generators-iterators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Igor Freitas <igor.freitas-k2p@parceirosedu.com.br>",
+  "license": "MIT"
+}
